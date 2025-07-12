@@ -168,6 +168,24 @@ cd frontend
 npm run dev
 ```
 
+## 🌐 Free Deployment
+
+Want to deploy your application for free? Check out our comprehensive deployment guide:
+
+📖 **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Complete guide to deploy on Render, Vercel, and MongoDB Atlas
+
+**Quick Deploy:**
+```bash
+# Run the deployment script
+chmod +x deploy.sh
+./deploy.sh
+```
+
+**Free Hosting Services Used:**
+- 🗄️ **Database**: MongoDB Atlas (512MB free)
+- 🔧 **Backend**: Render.com (750 hours/month free)
+- 🌐 **Frontend**: Vercel (unlimited deployments free)
+
 ## 📝 Available Scripts
 
 ### Root Level
